@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"models/items/w_lantern"
+	"$model" 1
+	"$surfaceprop"	"metal"
+	"$bumpmap	"models/items/w_lantern_bump"
+}
