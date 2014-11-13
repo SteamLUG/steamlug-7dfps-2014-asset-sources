@@ -1,0 +1,25 @@
+# Written by MakeHuman 1.0.2 (r1241 47eda58327ee) [data/VERSION static revision data]
+version v1.0.2
+tags dudebro
+hair mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+clothes worksuit d6eb4143-65ea-4cd4-b4fb-4edea0877a5c
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.081000
+macro Gender 0.497000
+macro Age 0.398000
+macro Height 0.491000
+macro Asian 0.180000
+macro African 0.180000
+macro Caucasian 0.640000
+macro Muscle 0.503000
+macro BodyProportions 0.497000
+background enabled False
+skinMaterial skins/default.mhmat
+material shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936 clothes/shoes02/materials/shoes02_default.mhmat
+material mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95 hair/mhair01/materials/male01_red.mhmat
+skeleton game.json
+subdivide False
